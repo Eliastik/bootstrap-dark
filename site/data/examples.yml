@@ -31,6 +31,8 @@
       description: "Nothing but the basics: compiled CSS and JavaScript."
     - name: Grid
       description: "Multiple examples of grid layouts with all four tiers, nesting, and more."
+    - name: Jumbotron
+      description: "Build around the jumbotron with a navbar and some basic grid columns."
 
 - category: Navbars
   description: "Taking the default navbar component and showing how it can be moved, placed, and extended."
@@ -51,9 +53,12 @@
       description: "Beautifully simple forms with floating labels over your inputs."
     - name: Offcanvas
       description: "Turn your expandable navbar into a sliding offcanvas menu."
+<<<<<<< HEAD
 
 - category: Integrations
   description: "Integrations with external libraries."
   examples:
     - name: "Masonry"
       description: "Combine the powers of the Bootstrap grid and the Masonry layout."
+=======
+>>>>>>> 6ffb0b48e455430f8a5359ed689ad64c1143fac2

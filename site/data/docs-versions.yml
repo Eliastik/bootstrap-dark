@@ -29,16 +29,32 @@
 
 - group: v3.x
   baseurl: "https://getbootstrap.com/docs"
-  description: "Our previous major release and its minor versions. Last update was v3.4.1."
+  description: "Every minor and patch release from v3 is listed below. Last update was v3.4.1."
   versions:
     - v: "3.3"
     - v: "3.4"
 
 - group: v4.x
   baseurl: "https://getbootstrap.com/docs"
+<<<<<<< HEAD
   description: "Current major release with two minor releases. Last update was v4.3.1."
+=======
+  description: "Current major release and its minor versions. Last update was v4.6.0."
+>>>>>>> 6ffb0b48e455430f8a5359ed689ad64c1143fac2
   versions:
     - v: "4.0"
     - v: "4.1"
     - v: "4.2"
     - v: "4.3"
+<<<<<<< HEAD
+=======
+    - v: "4.4"
+    - v: "4.5"
+    - v: "4.6"
+
+- group: v5.x
+  baseurl: "https://getbootstrap.com/docs"
+  description: "Our next major release."
+  versions:
+    - v: "5.0"
+>>>>>>> 6ffb0b48e455430f8a5359ed689ad64c1143fac2
